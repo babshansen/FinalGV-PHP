@@ -1,0 +1,188 @@
+<html>
+
+<head>
+	<title>Germantown Volunteers</title>
+	<script src="https://use.typekit.net/vuu1cgo.js"></script>
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<script src="js/scripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="styles/style.css"></link>
+</head>
+
+<body>
+	
+	<div class="main-container">
+		
+<!-- Navigation -->
+
+		<div class="header-container">
+			
+			<div class="nav-background">
+				<img src="media/nav-mural.jpg" alt="Germantown Mural">
+			</div>
+
+			<div class="nav-container">
+
+				<div class="logo-hand inline">
+					<img src="media/handtree.png" alt="Helping Hand" class="desktop">
+<!-- 					<img src="media/handtree-tb.png" alt="Helping Hand" class="tablet">
+ -->				</div>
+
+				<div class="nav-about inline">
+					<div class="about-sibling">
+					</div>
+					<div class="about">
+						<a href="about.html">ABOUT</a>
+					</div>
+				</div>
+				
+				<div class="nav-start inline">
+					<div class="start-sibling">
+					</div>
+					<div class="start">
+						<a href="project.php">START A PROJECT</a>
+					</div>
+				</div>
+
+				<div class="nav-volunteer inline">
+					<div class="volunteer-sibling">
+					</div>
+					<div class="volunteer">
+						<a href="volunteer.html">VOLUNTEER</a>
+					</div>
+				</div>
+
+				<div class="nav-register">
+					<div class="register">
+						<div class="aregister access">
+							<a href="register.php">Register</a>
+						</div>
+						<div class="alogin access">
+							<a href="login.html">Sign-in</a>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="logo-container">
+					<img src="media/GtownVolunteerLogo.svg"></img>
+					<p> Bringing Germantown together, one project at a time.</p>
+			</div>
+
+		</div>
+			
+
+<!-- Start of Carousel -->
+
+		<div class="carousel">
+
+		  <ul class="panes">
+
+		    <li>
+		      <img src="media/HoodCemetaryEntrance.jpg" alt="Entrance to Hood Cemetary in Germantown">
+		    </li>
+
+		    <li>
+		      <img src="media/Flowers.jpg" alt="Beautiful Purple Alluim Flower">
+		    </li>
+
+		    <li>
+		      <img src="media/GermantownHS.jpg" alt="Tile mosaic on the Germantown High School Building">
+		    </li>
+
+		    <li>
+		      <img src="media/MuralBricks-Eye.jpg" alt="Brick Mural from Maplewood Mall">
+		    </li>
+
+		  </ul>
+
+		  <div class="quotebox">
+			<div class="quote">
+				<h1>&ldquo;I want to make an impact on the place I love.&ldquo;</h1>
+				<p>-Babs Hansen
+			</div>
+		</div>
+
+		<div class="home-buttons">
+			<div class="buttons">
+				<a href="volunteer.html" id="find">FIND A PROJECT</a>
+			</div>
+			<div class="buttons">
+				<a href="start.html" id="start">START A PROJECT</a>
+			</div>
+		</div>
+
+	</div>
+
+
+
+
+<!-- Start of Bottom Content -->
+
+		<div class="bottom-container">			
+
+			<div class="number-wrapper">
+				<div class="subhead">
+					<h3>HOW IT WORKS:</h3>
+				</div>
+				<div class="number-flex">
+					<div class="1 container">
+						<div class="number-header">
+							<div class="line"></div>
+							<div class="circle">
+							<h2>1</h2>
+							</div>
+							<div class="line"></div>
+						</div>
+						<p>Local organizations or individuals reach out for volunteers by posting project.</p>
+					</div>
+					<div class="2 container">
+						<div class="number-header">
+							<div class="line"></div>
+							<div class="circle">
+							<h2>2</h2>
+							</div>
+							<div class="line"></div>
+						</div>
+						<p>Volunteers browse projects and signing up for what interests them most.</p>
+					</div>
+					<div class="3 container">
+						<div class="number-header">
+							<div class="line"></div>
+							<div class="circle">
+							<h2>3</h2>
+							</div>
+							<div class="line"></div>
+						</div>
+						<p>The organizer receives contact information for volunteers who are interested.</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="latest">
+				<div class="image">
+				</div>
+				
+				<a class="description" href="volunteer.html">
+					<h3>Latest Project</h3>
+					<h4> Lot Clean-Up Rockland St. </h4>
+					<p> Rogue descended from astronomers great turbulent clouds. Quasar take root and flourish! Network of wormholes. Euclid ship. </p>
+					<p> LEARN MORE  >> </p>
+				</a>
+				
+				<a class="rollover" href="volunteer.html">
+				</a>
+			</div>
+		
+		</div>
+
+		<div class="bottom-img">
+				<img src="media/bottom-image.jpg">
+		</div>
+
+	</div>
+
+</body>
+
+</html>
+
